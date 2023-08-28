@@ -10,8 +10,7 @@ I'm a full stack software engineer that enjoys building fun things for the Inter
 * [Bootstrap Node Project](https://github.com/daveschumaker/bootstrap-node-project) - Quickly setup a new dev environment for Node.js projects using configuration settings that I've frequently used in my previous work. This script greatly simplifies the process of getting a basic project template up and running.
 * [JustTriangles](https://twitter.com/justtriangles) - An automated Twitter bot that would post procedurally generated images featuring triangles.
 * [LocalAir](https://github.com/daveschumaker/local-air) - An air quality monitor using the PurpleAir API to display PM2.5 data and send push notifications to close windows / doors, based on hyper-local air quality information from PurpleAir IoT sensors located near where you live.
-* [MrRossBot](https://twitter.com/mrrossbot) - An automated Twitter bot that periodically posted AI generated images of landscape paintings.
-## Github metrics
+* [MrRossBot](https://botsin.space/@MrRossBot) - An automated ~~Twitter~~ Mastodon bot that periodically posts AI generated images of landscape paintings.
 
 ## Contact me
 
